@@ -1,0 +1,22 @@
+{
+  "name": "autosuggestion_searchbox",
+  "version": "1.0.0",
+  "description": "Auto Suggesation search Box",
+  "scripts": {
+    "start": "parcel public/index.html",
+    "test": "jest"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "Ajmal Ali",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
